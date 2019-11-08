@@ -1,2 +1,2 @@
 # biboys
-note to self
+This Repository is Note to Self.
